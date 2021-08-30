@@ -13,7 +13,8 @@
 
 ## Desenvolvimento
 
-
+- [Criação de formulário em html / CSS e JavaScript]
+- [Ferramenta Vcode , git bash]
 
 ## Referências
 
