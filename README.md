@@ -13,12 +13,12 @@
 
 ## Objetivo 
 
-- [Integrar na na companhia e desenvolver junto com a empresa]
+- Integrar na na companhia e desenvolver junto com a empresa
 
 ## Desenvolvimento
 
-- Criação de formulário em html / CSS e JavaScript
-- Ferramenta Vcode , gitHub e git bash
+- Criação de formulário em html / CSS e JavaScript.
+- Ferramenta Vcode , gitHub e git bash.
 
 ## Referências
 
