@@ -18,7 +18,7 @@
 ## Desenvolvimento
 
 - Criação de formulário em html / CSS e JavaScript.
-- Ferramenta Vcode , gitHub e git bash.
+- Ferramenta: Visual Studio Code e Git Bash.
 
 ## Referências
 
