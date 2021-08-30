@@ -13,7 +13,7 @@
 
 ## Objetivo 
 
-- Integrar na na companhia e desenvolver junto com a empresa
+- Integrar na companhia e desenvolver junto com a empresa
 
 ## Desenvolvimento
 
